@@ -10,6 +10,7 @@
 
 </head>
 <body>
+  <h1>Question-1</h1>
 <form action="Auth.php" method="get">
   <div class="form-group">
     <label for="emailaddress">Email address</label>
@@ -17,12 +18,12 @@
     <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
   </div>
   <div class="form-group">
-    <label for="Pass">Password</label>
+    <label for="pass">Password</label>
     <input type="password" class="form-control" name="pass" placeholder="Password">
   </div>
   <div class="form-group form-check">
     <input type="radio"  name="radio" value="1st">
-    <label class="form-check-label" for="Radio">First Radio</label>
+    <label class="form-check-label" for="radio">First Radio</label>
   </div>
   <div class="form-group form-check">
     <input type="radio"  name="radio"  value="2nd">
@@ -38,9 +39,9 @@
   </div>
   <button type="submit" class="btn btn-primary">Sign in</button>
 </form>
+<?php
 
-<label for="agrument">
-
+?>
 </body>
 
 </html>
