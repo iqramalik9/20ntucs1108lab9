@@ -23,15 +23,15 @@
   </div>
   <div class="form-group form-check">
     <input type="radio"  name="radio" value="1st">
-    <label class="form-check-label" for="radio">First Radio</label>
+    <label class="form-check-label" for="radio">First_Radio</label>
   </div>
   <div class="form-group form-check">
     <input type="radio"  name="radio"  value="2nd">
-    <label class="form-check-label" for="radio">Second Radio</label>
+    <label class="form-check-label" for="radio">Second_Radio</label>
   </div>
   <div class="form-group form-check">
     <input type="radio"  name="radio"  value="3rd">
-    <label class="form-check-label" for="radio">Third Radio</label>
+    <label class="form-check-label" for="radio">Third_sRadio</label>
   </div>
   <div class="form-group form-check">
     <input type="checkbox"  name="check" >
